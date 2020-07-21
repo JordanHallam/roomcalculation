@@ -1,0 +1,12 @@
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.exe
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.deps.json
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.runtimeconfig.json
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.runtimeconfig.dev.json
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.dll
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\bin\Debug\netcoreapp3.1\roomcalculation.pdb
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.AssemblyInfoInputs.cache
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.AssemblyInfo.cs
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.csproj.CoreCompileInputs.cache
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.dll
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.pdb
+C:\Users\jghal\source\repos\roomcalculation\roomcalculation\obj\Debug\netcoreapp3.1\roomcalculation.genruntimeconfig.cache
